@@ -1,2 +1,2 @@
 # CoolNames
-free anmes
+free names
